@@ -1,0 +1,22 @@
+{
+  "wheel_id": 692,
+  "structure": "umbrella",
+  "slug": "retainingwallscanberra-111",
+  "project": "retaining-wall-builders-canberra-before-you-start-2d7fd1bb81173",
+  "parent_t1_ref": "retainingwallscanberra-155",
+  "node_role": "feeder",
+  "money_target": "retainingwallscanberra.au",
+  "primary_kw": "retaining wall builders canberra before you start",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-builders-canberra-before-you-start-2d7fd1bb81173/",
+  "tier": "T2",
+  "writeback_nonce": "32c218b1898e13b6",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-builders-canberra-glossary-a9e25f0a26985cc5ec2e2.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "retaining wall builders canberra glossary explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
